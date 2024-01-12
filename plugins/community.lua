@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.bars-and-lines.feline-nvim" },
+  { import = "astrocommunity.git.blame-nvim" },
 }
